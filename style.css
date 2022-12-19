@@ -1,0 +1,160 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.homeimg{
+    width: 100%;
+    height: 60rem;
+    background-image:url(./images/1.jpg);
+}
+.navrow{
+    height: 90px;
+}
+.homelogo{
+    width: 60%;
+    height:60px;
+    background-image:url(./images/logo-white.png);
+    background-repeat: no-repeat;
+    margin-top: 13px;
+    margin-left: 120px;
+}
+
+.nav01{
+    color:orangered;
+    transition: 0.5s;
+    padding-right: 50px;
+    text-decoration: none;
+    font-weight: bolder;
+}
+.nav1{
+    color: white;
+    transition: 0.5s;
+    padding-right: 80px;
+    text-decoration: none;
+    font-weight: bolder;
+}
+.nav1:hover{
+    transform:scale(1.1);
+    transition: 0.5s;
+    color: orangered;
+}
+ul{
+    padding-top: 29px;
+}
+.navtoggle{
+    width: 50px;
+    height: 50px;
+    color: aliceblue;
+}
+.togglecolor{
+    color: aliceblue;
+}
+.hometext1{
+color: orangered;
+text-align: center;
+font-size: 120px;
+margin-top: 140px!important;
+font-weight:bolder;
+}
+.hometext2{
+    color: white;
+}
+.hometext3{
+    color: white;
+    text-align: center;
+    font-size: 120px;
+    font-weight: bolder;
+}
+.hometext4{
+    color:white;
+text-align: center;
+margin-top: 30px!important;
+font-weight: bolder;
+}
+.hometext5{
+    width: 25%;
+    height: 60px;
+   color:white;
+   background-color: orangered;
+   margin-top: 50px;
+   font-weight: bolder;
+   font-size: larger;
+}
+.hometext6{
+    width: 25%;
+    height: 60px;
+   color:white;
+   background-color:black;
+   margin-top: 50px;
+   font-weight: bolder;
+   font-size: larger;
+}
+.buttons{
+    margin-top: 30px;
+    
+}
+/* <----------------------home end------------> */
+
+/* <-----------------------------aboutusimg-----------------------> */
+.aboutusimg{
+    background-image: url(./images/about-image.png);
+    height: 550px;
+    width: 100%;
+    background-position:left,top,bottom;
+    background-position-y: bottom;
+}
+.abouttext1{
+    margin-top: 200px!important;
+    padding-left: 100px;
+}
+.abouttext2{
+    padding-top: 10px;
+    padding-left: 100px;
+}
+.abouttext3{
+    padding-top: 10px;
+    padding-left: 100px;
+    padding-top: 15px;
+}
+/* <---------------------------------our services----------------------------> */
+.ostext1{
+    font-size: 80px;
+    font-weight: bolder;
+    padding-top: 5px;
+}
+.ostext2{
+    padding-top: 10px;
+}
+/* <-------------------------our works-------------------------> */
+.ourworktext1{
+    font-size:4.5rem;
+    font-weight: bolder;
+}
+
+.owim:hover{
+    transform:scale(1.1);
+    transition: 0.5s;
+}
+/* <----------------------------------------------------------------> */
+.ostext3{
+    font-size: 50px;
+    font-weight: bolder;
+    padding-top: 80px;
+    margin-left: 60px;
+    
+}
+.ostext4{
+    font-size: 20px;
+    padding-top: 5px;
+    margin-left: 60px;
+}
+.troicon{
+    width: 40px;
+    height: 40px;
+}
+.owim1:hover{
+    transform:scale(1.1);
+    transition: 0.5s;
+    color: orangered;
+}
